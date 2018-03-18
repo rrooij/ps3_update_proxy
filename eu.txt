@@ -1,0 +1,4 @@
+# EU
+Dest=85;CompatibleSystemSoftwareVersion=4.8100-;
+Dest=85;IncrementalUpdateVersion=0001036c-0001036c;ImageVersion=000104e2;SystemSoftwareVersion=4.8100;CDN=http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2016_1101_b2483b4abc157494447c9c409c036041/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=000104e2;SystemSoftwareVersion=4.8100;CDN=http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2016_1101_b2483b4abc157494447c9c409c036041/PS3UPDAT.PUP;CDN_Timeout=30;
