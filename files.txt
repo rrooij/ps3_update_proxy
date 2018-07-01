@@ -1,0 +1,11 @@
+http://fjp01.ps3.update.playstation.net/update/ps3/list/jp/ps3-updatelist.txt|jp.txt
+http://fus01.ps3.update.playstation.net/update/ps3/list/us/ps3-updatelist.txt|us.txt
+http://fau01.ps3.update.playstation.net/update/ps3/list/au/ps3-updatelist.txt|au.txt
+http://fuk01.ps3.update.playstation.net/update/ps3/list/uk/ps3-updatelist.txt|uk.txt
+http://feu01.ps3.update.playstation.net/update/ps3/list/eu/ps3-updatelist.txt|eu.txt
+http://fkr01.ps3.update.playstation.net/update/ps3/list/kr/ps3-updatelist.txt|kr.txt
+http://fsa01.ps3.update.playstation.net/update/ps3/list/sa/ps3-updatelist.txt|sa.txt
+http://ftw01.ps3.update.playstation.net/update/ps3/list/tw/ps3-updatelist.txt|tw.txt
+http://fru01.ps3.update.playstation.net/update/ps3/list/ru/ps3-updatelist.txt|ru.txt
+http://fcn01.ps3.update.playstation.net/update/ps3/list/cn/ps3-updatelist.txt|cn.txt
+http://fmx01.ps3.update.playstation.net/update/ps3/list/mx/ps3-updatelist.txt|mx.txt

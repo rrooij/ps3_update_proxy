@@ -17,7 +17,7 @@ git clone https://github.com/rrooij/ps3_update_proxy.git
 Run the mitmproxy binary and attach this script
 
 ```
-./mitmproxy -s tls_passthrough.py -s ps3proxy.py
+./mitmproxy -s tls_passthrough.py -s filereplacer.py
 ```
 
 Note that the first time starting a game may result in a error. It will work fine if you try again
