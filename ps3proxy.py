@@ -8,12 +8,9 @@ from os.path import dirname, realpath
 
 script_path = dirname(realpath(__file__))
 
-def request(flow: http.HTTPFlow) -> None:
+def response(flow: http.HTTPFlow) -> None:
     if flow.request.pretty_url == "http://feu01.ps3.update.playstation.net/update/ps3/list/eu/ps3-updatelist.txt":
-        flow.response = http.HTTPResponse.make(
-            200,
-            open(script_path + '/eu.txt', 'rb').read(),
-        )
+        flow.response.content = open(script_path + '/eu.txt', 'rb').read()
     elif flow.request.pretty_url == "http://feu01.ps3.update.playstation.net/update/ps3/list/us/ps3-updatelist.txt":
         flow.response = http.HTTPResponse.make(
             200,
