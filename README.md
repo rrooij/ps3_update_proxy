@@ -17,7 +17,10 @@ git clone https://github.com/rrooij/ps3_update_proxy.git
 Run the mitmproxy binary and attach this script
 
 ```
-./mitmproxy --anticache -s ps3proxy.py
+./mitmproxy -s tls_passthrough.py -s ps3proxy.py
 ```
+
+Note that the first time starting a game may result in a error. It will work fine if you try again
+by restarting the game.
 
 Configure your computer's local IP address as proxy in the PS3, with port 8080.
